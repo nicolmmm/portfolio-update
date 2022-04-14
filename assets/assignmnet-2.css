@@ -1,7 +1,13 @@
 * {
   font-family: "Nunito", sans-serif;
+  color: #282c34;
   /*  font-family: Arial, Helvetica, sans-serif; */
   box-sizing: border-box;
+}
+
+:root {
+  --blue: #003049;
+  --orange: #f77f00;
 }
 
 body {
@@ -113,6 +119,13 @@ li:hover {
 
 #myProfPic {
   max-width: 300px;
+}
+
+#myTitle {
+}
+
+#myDesc {
+  color: var(--orange);
 }
 
 .project .project-description {
