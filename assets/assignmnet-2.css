@@ -147,6 +147,9 @@ li:hover {
 img {
   max-width: 100%;
   height: auto;
+  margin: 32px;
+  box-shadow: 10px #282c34;
+
 }
 
 .verticalImg {
@@ -178,4 +181,12 @@ img {
 .contact-me-class li {
   padding: 0.5rem;
   list-style-type: none;
+}
+
+
+br {
+  display: block;
+  margin-bottom: 2px;
+  font-size:2px;
+  line-height: 2rem;
 }

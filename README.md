@@ -1,4 +1,3 @@
-# portfolio-assignment
+# Project 16 portfolio-assignment
 
-bootcamp assignment 2
-This repo holds the site for my second bootcamp assignment. It is a portfolio site built using HTML and CSS. I have built it to respond to different size screens on different devices.
+This repo holds all my most recent projects for the purpose of a personal portfolio with links to deployed sites and github repos. It is built using HTML and CSS. I have built it to respond to different size screens on different devices.
